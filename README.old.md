@@ -34,3 +34,6 @@ Components: (Based on Book Myshow)
     React - slick
     Headlessui - More styles
     Axios -  Axios is a popular, promise-based HTTP client library used in JavaScript for making HTTP requests, simplifying the process of fetching data from or sending data to servers, whether in a browser or Node.js environment. 
+
+
+    rafce - to automatically write thye basic structure in jsx. we need es7/react jsx installed
