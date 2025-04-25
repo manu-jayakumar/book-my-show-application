@@ -6,4 +6,4 @@ const PosterSliderComponent = () => {
   )
 }
 
-export default PosterSliderComponent;
+export default PosterSliderComponent;   
